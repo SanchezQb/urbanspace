@@ -1,0 +1,6 @@
+package comspectrumsixdigital.urbanspace
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
